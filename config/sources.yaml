@@ -1,0 +1,70 @@
+sources:
+  - name: Diario El Salvador
+    html: https://diarioelsalvador.com/
+    parser: diarioelsalvador
+  - name: La Prensa Gráfica
+    html: https://www.laprensagrafica.com/
+    parser: laprensagrafica
+  - name: El Diario de Hoy
+    html: https://www.elsalvador.com/
+    parser: elsalvador
+  - name: Asamblea Legislativa de El Salvador
+    html: https://www.asamblea.gob.sv/
+    parser: asamblealegislativa
+  - name: Gobierno de El Salvador
+    html: https://www.presidencia.gob.sv/
+    parser: presidencia
+  - name: Ministerio de Salud de El Salvador
+    html: https://www.salud.gob.sv/
+    parser: salud
+  - name: Ministerio de Educación de El Salvador
+    html: https://www.mined.gob.sv/
+    parser: mined
+  - name: Imprenta Nacional de El Salvador
+    html: https://www.imprentanacional.gob.sv/
+    parser: imprentanacional
+  - name: Diario La Página
+    html: https://www.lapagina.com.sv/
+    parser: lapagina
+  - name: Porttada Noticias
+    html: https://www.porttada.com/
+    parser: porttada
+  - name: El Mundo
+    html: https://elmundo.sv/
+    parser: elmundo
+  - name: El Faro
+    html: https://elfaro.net/
+    parser: elfaro
+  - name: El Salvador Times
+    html: https://www.elsalvadortimes.com/
+    parser: elsalvadortimes
+  - name: La Noticia SV
+    html: https://lanoticiasv.com/
+    parser: lanoticiasv
+  - name: Noticias de El Salvador
+    html: https://noticiasdeelsalvador.com/
+    parser: noticiasdeelsalvador
+  - name: Diario La Huella
+    html: https://www.lahuella.com.sv/
+    parser: lahuella
+  - name: El Blog Noticias
+    html: https://elblog.com/
+    parser: elblog
+  - name: Diario 1 El Salvador
+    html: https://diario1.com/
+    parser: diario1
+  - name: El Salvador Noticias
+    html: https://elsalvadornoticias.net/
+    parser: elsalvadornoticias
+  - name: El Economista El Salvador
+    html: https://www.eleconomista.net/
+    parser: eleconomista
+  - name: Última Hora El Salvador
+    html: https://ultimahora.sv/
+    parser: ultimahora
+  - name: Diario Co Latino
+    html: https://diariocolatino.com/
+    parser: diariocolatino
+  - name: Diario Oficial de El Salvador
+    html: https://www.diariooficial.gob.sv/
+    parser: diariooficial
