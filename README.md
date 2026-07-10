@@ -43,9 +43,9 @@ Contribuciones
 - Pull requests bienvenidas. Abrir issues para reportar bugs o proponer nuevas fuentes.
 
 Licencia
-- Revisar el archivo LICENSE (si existe) o añadir una según prefieras (MIT, Apache 2.0, etc.).
+- Pending...
 
 Contacto
-- Añade información de contacto o del equipo en este apartado.
+- Kendal Alfonso Sosa Montes (https://github.com/kendalalfonso37)
 
 ``` 
